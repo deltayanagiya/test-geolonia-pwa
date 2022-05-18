@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:J84",
+  "range": "'スポットデータ'!A1:J83",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -15,23 +15,13 @@
       "公式サイト"
     ],
     [
-      "2022/05/11 14:46:34",
-      "オフィス",
-      "https://geolonia.github.io/logo/geolonia-logo_b2.jpg",
-      "35.730091",
-      "139.73754",
-      "株式会社Geolonia",
-      "株式会社Geoloniaの東京オフィスです",
-      "",
-      "geoloniamap",
-      "https://geolonia.com"
-    ],
-    [
       "",
       "",
-      "",
+      "https://tblg.k-img.com/restaurant/images/Rvw/139337/320x320_square_139337396.jpg",
       "35.655965",
-      "139.705095"
+      "139.705095",
+      "かつ吉",
+      "渋谷、明治通り沿いにある、とんかつで有名なお店です。"
     ]
   ]
 }
