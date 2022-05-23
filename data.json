@@ -1,63 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:J83",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト"
-    ],
-    [
-      "2022/05/11 14:46:34",
-      "渋谷区",
-      "https://tblg.k-img.com/restaurant/images/Rvw/139337/320x320_square_139337396.jpg",
-      "35.655965",
-      "139.705095",
-      "かつ吉",
-      "渋谷、明治通り沿いにある、とんかつで有名なお店です。",
-      "https://www.instagram.com/katsukichi_official/",
-      "https://twitter.com/katsukichishibu",
-      "https://www.bodaijyu.co.jp/ja/"
-    ],
-    [
-      "2022/05/13 13:46:34",
-      "港区",
-      "http://www.roppongihills.com/shops_restaurants/images/00157_pic_04.jpg",
-      "35.6608",
-      "139.729214",
-      "豚組食堂",
-      "六本木ヒルズ内にある、行列の絶えないとんかつ店。",
-      "https://www.instagram.com/butagumi_shokudo/",
-      "https://twitter.com/butagumi",
-      "http://www.butagumi.com/shokudo/"
-    ],
-    [
-      "2022/05/15 18:46:34",
-      "大田区",
-      "https://tonkatsu-aoki.com/wp-content/uploads/2021/04/00013-1.png",
-      "35.561768",
-      "139.718337",
-      "とんかつ檍",
-      "テレビでよく紹介される、ロース、ひれともに極上のとんかつ店",
-      "https://www.instagram.com/tonkatsu_aoki/?hl=ja",
-      "https://mobile.twitter.com/aoki_kamata",
-      "https://tonkatsu-aoki.com/"
-    ],
-    [
-      "2022/05/16 18:46:34",
-      "新宿区",
-      "https://tblg.k-img.com/restaurant/images/Rvw/165308/640x640_rect_b6dee4aa00e9395b50159a9a3efd684f.jpg",
-      "35.715371",
-      "139.708283",
-      "とん太",
-      "新目白通り沿いにある、行列の絶えないお店。サーモンピンクの絶妙な火加減と、落ち着いたジャズのかかる居心地が良い店"
-    ]
-  ]
+  "error": {
+    "code": 503,
+    "message": "The service is currently unavailable.",
+    "status": "UNAVAILABLE"
+  }
 }
