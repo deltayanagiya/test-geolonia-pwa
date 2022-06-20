@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test-geolonia-pwa/static/css/main.6790771c.chunk.css",
-    "main.js": "/test-geolonia-pwa/static/js/main.c3966646.chunk.js",
-    "main.js.map": "/test-geolonia-pwa/static/js/main.c3966646.chunk.js.map",
+    "main.js": "/test-geolonia-pwa/static/js/main.5f7f621a.chunk.js",
+    "main.js.map": "/test-geolonia-pwa/static/js/main.5f7f621a.chunk.js.map",
     "runtime-main.js": "/test-geolonia-pwa/static/js/runtime-main.f2957a19.js",
     "runtime-main.js.map": "/test-geolonia-pwa/static/js/runtime-main.f2957a19.js.map",
     "static/js/2.03b8fd53.chunk.js": "/test-geolonia-pwa/static/js/2.03b8fd53.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f2957a19.js",
     "static/js/2.03b8fd53.chunk.js",
     "static/css/main.6790771c.chunk.css",
-    "static/js/main.c3966646.chunk.js"
+    "static/js/main.5f7f621a.chunk.js"
   ]
 }
