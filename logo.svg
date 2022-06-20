@@ -64,7 +64,7 @@
 
     
 
-  <meta name="request-id" content="0442:55C3:19F8C6E:35C8EDF:62B0FA8E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="9634850f323be58e776c5a4be2449231133d7b9bfa2b2959e0ac57e1dcdd0dea" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDQyOjU1QzM6MTlGOEM2RTozNUM4RURGOjYyQjBGQThFIiwidmlzaXRvcl9pZCI6Ijg3OTkxNjcwNzc5ODY0MDA5MTAiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="0860572ca9e9114ba6f0a18485cf5c92e35362083118a3fd153a65d9338a442f" data-pjax-transient="true"/>
+  <meta name="request-id" content="0482:79CE:176BCA3:258E42C:62B0FEAA" data-pjax-transient="true"/><meta name="html-safe-nonce" content="95ef61aa2c0ffe2ea7b98acaa31ec3b5b7459bbf577956c853779d1dc291a9aa" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDgyOjc5Q0U6MTc2QkNBMzoyNThFNDJDOjYyQjBGRUFBIiwidmlzaXRvcl9pZCI6IjMxODA2MTc4NzIxMzIwNzkyNzQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="d186c33ad5e2f2e05d5f741a46c311c10b236c3ffc30c60f83844451ca0b4565" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:493581085" data-pjax-transient>
 
@@ -432,7 +432,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="qAvMpKjkSVlJygIdF4FHDWyXYINiMh8QVk+JEZRWx9supARYGY4Aw5VvVo7rRc5EAUEuj8d6owkv2IBA85bOoA==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="yw2l5cxFtE+vkD6vLVjJT+72/s1OqnNyMqgHnwR2EWtDAZkrfFvlYCIYSELQJYigO27hvGrzusPrh3N94mFvTw==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -929,7 +929,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/deltayanagiya/test-geolonia-pwa/blob/f9fcc79f99debb4e360d988c92bf40c6e93b0c24/public/logo.svg">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/deltayanagiya/test-geolonia-pwa/blob/600f5b9d48a98594d10d74ddbc5a6435889b0a3a/public/logo.svg">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1116,7 +1116,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/deltayanagiya/test-geolonia-pwa/blob/f9fcc79f99debb4e360d988c92bf40c6e93b0c24/public/logo.svg" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/deltayanagiya/test-geolonia-pwa/blob/600f5b9d48a98594d10d74ddbc5a6435889b0a3a/public/logo.svg" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1145,7 +1145,7 @@
   
 </div></div>
 
-    <include-fragment src="/deltayanagiya/test-geolonia-pwa/spoofed_commit_check/f9fcc79f99debb4e360d988c92bf40c6e93b0c24" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/deltayanagiya/test-geolonia-pwa/spoofed_commit_check/600f5b9d48a98594d10d74ddbc5a6435889b0a3a" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
   <include-fragment src="/deltayanagiya/test-geolonia-pwa/contributors/master/public/logo.svg" class="commit-loader">
@@ -1184,11 +1184,11 @@
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-    <a href="/deltayanagiya/test-geolonia-pwa/blob/master/public/logo.svg?short_path=35abf0c" data-permalink-href="/deltayanagiya/test-geolonia-pwa/blob/f9fcc79f99debb4e360d988c92bf40c6e93b0c24/public/logo.svg?short_path=35abf0c" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <a href="/deltayanagiya/test-geolonia-pwa/blob/master/public/logo.svg?short_path=72cef72" data-permalink-href="/deltayanagiya/test-geolonia-pwa/blob/600f5b9d48a98594d10d74ddbc5a6435889b0a3a/public/logo.svg?short_path=72cef72" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
   
-</a>    <a href="/deltayanagiya/test-geolonia-pwa/blob/master/public/logo.svg" data-permalink-href="/deltayanagiya/test-geolonia-pwa/blob/f9fcc79f99debb4e360d988c92bf40c6e93b0c24/public/logo.svg" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>    <a href="/deltayanagiya/test-geolonia-pwa/blob/master/public/logo.svg" data-permalink-href="/deltayanagiya/test-geolonia-pwa/blob/600f5b9d48a98594d10d74ddbc5a6435889b0a3a/public/logo.svg" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
 </svg>
   
@@ -1196,9 +1196,9 @@
 
 
     <div class="BtnGroup">
-      <a data-permalink-href="/deltayanagiya/test-geolonia-pwa/raw/f9fcc79f99debb4e360d988c92bf40c6e93b0c24/public/logo.svg" href="/deltayanagiya/test-geolonia-pwa/raw/master/public/logo.svg" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/deltayanagiya/test-geolonia-pwa/raw/600f5b9d48a98594d10d74ddbc5a6435889b0a3a/public/logo.svg" href="/deltayanagiya/test-geolonia-pwa/raw/master/public/logo.svg" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/deltayanagiya/test-geolonia-pwa/blame/f9fcc79f99debb4e360d988c92bf40c6e93b0c24/public/logo.svg" href="/deltayanagiya/test-geolonia-pwa/blame/master/public/logo.svg" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/deltayanagiya/test-geolonia-pwa/blame/600f5b9d48a98594d10d74ddbc5a6435889b0a3a/public/logo.svg" href="/deltayanagiya/test-geolonia-pwa/blame/master/public/logo.svg" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
@@ -1207,7 +1207,7 @@
 
           
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/deltayanagiya/test-geolonia-pwa/edit/master/public/logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WHfFxpRusF6SCk29L0HgweveCUUpMdvhxmvtx0qrUVbgncIkPTxUVXz_hnYMifNyHyw9PvBJJk3m6bPk-OBcPQ" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/deltayanagiya/test-geolonia-pwa/edit/master/public/logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_0Jie3WlXdGDCSYo629wIj5Xsxko4tYux-qQFA80SHNbsuU-Sd9ag69XhAKVraDR6raRVGvAsRz6U2f00dS0eA" autocomplete="off" />
     <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -1218,7 +1218,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/deltayanagiya/test-geolonia-pwa/edit/master/public/logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hhxgxSt7S6vnezXHc5vqGOltJG2urKW5bY_F_5nPMA8-9mcngimvoAmO_gxQU_mrHZ8QFnfUWBVNDZvcK4Q9ZA" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/deltayanagiya/test-geolonia-pwa/edit/master/public/logo.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wlxKSnvr7dcTVUBIwmr4JcjiPiVtfxowNgxtg7ekAapmrM0PR5HqhT8L4mK8qCjWHAMcaC5dfQILtZpjaUT9oQ" autocomplete="off" />
             <button disabled="disabled" title="You must be signed in to make or propose changes" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">  <div>Edit this file</div>
               <div class="color-fg-muted">E</div>
   
@@ -1295,7 +1295,7 @@
 
           <div class="render-wrapper ">
     <div class="render-container is-render-pending js-render-target "
-      data-identity="63a8368d-2b65-41ab-ac5c-158283913724"
+      data-identity="a3aaee2f-04ac-430b-815a-7f1162ac1588"
       data-host="https://viewscreen.githubusercontent.com"
       data-type="svg">
       <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="64" height="64" viewBox="0 0 16 16" fill="none" data-view-component="true" class="octospinner mx-auto anim-rotate">
@@ -1307,10 +1307,10 @@
       <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
       <iframe
         class="render-viewer "
-        src="https://viewscreen.githubusercontent.com/view/svg?azure_maps_enabled=false&amp;browser=unknown_browser&amp;color_mode=auto&amp;commit=f9fcc79f99debb4e360d988c92bf40c6e93b0c24&amp;device=unknown_device&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f64656c746179616e61676979612f746573742d67656f6c6f6e69612d7077612f663966636337396639396465626234653336306439383863393262663430633665393362306332342f7075626c69632f6c6f676f2e737667&amp;enterprise_enabled=false&amp;logged_in=false&amp;nwo=deltayanagiya%2Ftest-geolonia-pwa&amp;path=public%2Flogo.svg&amp;platform=unknown_platform&amp;repository_id=493581085&amp;repository_type=Repository&amp;version=0#63a8368d-2b65-41ab-ac5c-158283913724"
+        src="https://viewscreen.githubusercontent.com/view/svg?azure_maps_enabled=false&amp;browser=unknown_browser&amp;color_mode=auto&amp;commit=600f5b9d48a98594d10d74ddbc5a6435889b0a3a&amp;device=unknown_device&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f64656c746179616e61676979612f746573742d67656f6c6f6e69612d7077612f363030663562396434386139383539346431306437346464626335613634333538383962306133612f7075626c69632f6c6f676f2e737667&amp;enterprise_enabled=false&amp;logged_in=false&amp;nwo=deltayanagiya%2Ftest-geolonia-pwa&amp;path=public%2Flogo.svg&amp;platform=unknown_platform&amp;repository_id=493581085&amp;repository_type=Repository&amp;version=0#a3aaee2f-04ac-430b-815a-7f1162ac1588"
         sandbox="allow-scripts allow-same-origin allow-top-navigation"
         title="File display"
-        name="63a8368d-2b65-41ab-ac5c-158283913724"
+        name="a3aaee2f-04ac-430b-815a-7f1162ac1588"
       >
           Viewer requires iframe.
       </iframe>
