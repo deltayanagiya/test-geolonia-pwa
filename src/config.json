@@ -2,7 +2,7 @@
   "title": "とんかつマップ",
   "description": "おいしいとんかつをまとめています",
   "form_url": "",
-  "logo_image_url": "https://github.com/deltayanagiya/test-geolonia-pwa/blob/master/public/logo.svg",
-  "background_image_url": "https://github.com/deltayanagiya/test-geolonia-pwa/blob/master/public/buildings-1836478_1920.jpg",
+  "logo_image_url": "https://raw.githubusercontent.com/deltayanagiya/test-geolonia-pwa/master/public/logo.png",
+  "background_image_url": "https://raw.githubusercontent.com/deltayanagiya/test-geolonia-pwa/master/public/buildings-1836478_1920.jpg",
   "primary_color": "#d2691e"
 }
